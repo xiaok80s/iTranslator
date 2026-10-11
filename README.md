@@ -2,6 +2,8 @@
 
 一款简洁的 macOS 菜单栏翻译工具，支持英语与简体中文互译。输入文字后自动翻译，可一键复制结果。
 
+![iTranslator 翻译窗口截图](assets/screenshot.png)
+
 ## 功能
 
 - 支持 Google 翻译、Apple 翻译和 OpenAI 兼容的 LLM 接口。
